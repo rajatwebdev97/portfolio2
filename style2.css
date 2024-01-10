@@ -1,0 +1,42 @@
+@media screen and (max-width:425px ){
+    .hello h2{
+        width: 79%;
+
+    }
+    .hello h1{
+    font-size: 2rem ;
+    padding: 0.5rem ;
+    }
+
+
+
+   .hello p{
+        margin-left: 5.5rem  ;
+        width: 60%;
+        padding: 0.5rem ;
+   } 
+    .pic img{
+        width: 70%;
+    }
+    .image{
+        width: 100%;
+
+    }
+    .image .box1{
+        width: 100%;
+        display: block;
+    }
+    .image .box1 img{
+        width: 90%;
+    }
+    .image .box2{
+        width: 100%;
+        display: block;
+    }
+    .image .box2 img{
+        width: 90%;
+    }
+    .footer{
+        width: 75%;
+    }
+}
